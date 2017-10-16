@@ -1,0 +1,85 @@
+ { "tabTitle": "Self-Service",
+   "favList":[{"id":"selfService1"},{"id":"selfService2"}],
+  "contents":[
+  {"header":"My Information",
+  "id" : "selfService1",
+  "headerDescription":"Your NUID is 001621584."},
+    
+    {"header":"Blackboard",
+  "id" : "selfService2",
+  "contentArray":[
+  {"subContents":[
+   {"link":"http://www.google.com", "linkTitle":"Blackboard","description":"Gain access to materials online, transfer files, and interact with your instructor and other students."}
+]}
+]},
+
+ {"header":"Student Financial Services",
+  "id" : "selfService3",
+  "contentArray":[
+  { "subContentTitle":"STUDENT ACCOUNT", 
+  "subContents":[
+   {"link":"http://www.google.com", "linkTitle":"Student Account, Payment and E-bill Information "},
+   {"link":"http://www.google.com", "linkTitle":"Make a Payment"},
+   {"link":"http://www.google.com", "linkTitle":"Waive NUSHP (Health Plan)"},
+   {"link":"http://www.google.com", "linkTitle":"Direct Deposit Form",            "description":"Establish or modify direct deposit for banking transactions such as refunds, payroll, and university reimbursements."},
+   {"link":"http://www.google.com","linkTitle":"Student Refund Request", "description":"Submit a request for a refund on an existing credit balance from your student account."}
+]},
+
+{ "subContentTitle":"FINANCIAL SERVICES", 
+  "subContents":[
+   {"link":"http://www.google.com", "linkTitle":"My Financial Aid Status "},
+   {"link":"http://www.google.com", "linkTitle":"Federal Loan Entrance Counseling", "description":"Complete this one-time required entrance counseling session if you are a first time federal student loan borrower."},
+   {"link":"http://www.google.com", "linkTitle":"Federal Graduate PLUS Loan Application.", "description":"Complete this application to determine your eligibility for the Federal Graduate PLUS"}
+]},
+
+{ "subContentTitle":"HUSKY CARD CENTER", 
+  "subContents":[
+   {"link":"http://www.google.com", "linkTitle":"Husky Card Account Balances"},
+    {"link":"http://www.google.com", "linkTitle":"Husky Card Account Transactions"},
+     {"link":"http://www.google.com", "linkTitle":"Add Funds Using a Credit Card or E-check"},
+   {"link":"http://www.google.com", "linkTitle":"Husky Card Preferences", "description":"Access WebCardCenter services"}
+]},
+
+{ "subContentTitle":"ROOM & BOARD", 
+  "subContents":[
+   {"link":"http://www.google.com", "linkTitle":"Standard Meal Plan Services"},
+    {"link":"http://www.google.com", "linkTitle":"Profiler Meal Plan Services"},
+     {"link":"http://www.google.com", "linkTitle":"Housing On-Line"}
+]},
+
+{ "subContentTitle":"WORK RESOURCES", 
+  "subContents":[
+   {"link":"http://www.google.com", "linkTitle":"Student Employment", "description":"Search and apply for part-time student employment opportunities including Federal Work-Study positions."}
+]}
+
+]},
+
+{ 
+  "header":"Registrar",
+  "id" : "selfService4",
+   "contentArray":[
+  {
+  "subContents":[
+  {"link":"http://www.google.com", "linkTitle":"Student Self Service"},
+  {"link":"http://www.google.com", "linkTitle":"Course Catalog"},
+  {"link":"http://www.google.com", "linkTitle":"Schedule of Classes"},
+  {"link":"http://www.google.com", "linkTitle":"Course Registration"},
+  {"link":"http://www.google.com", "linkTitle":"My Schedule"},
+  {"link":"http://www.google.com", "linkTitle":"My Grades"},
+  {"link":"http://www.google.com", "linkTitle":"Enrollment/Degree Verification Request"},
+  {"link":"http://www.google.com", "linkTitle":"My Transcript"},
+  {"link":"http://www.google.com", "linkTitle":"Change of Address"},
+  {"link":"http://www.google.com", "linkTitle":"Registrar Forms"},
+  
+   {"link":"http://www.google.com", "linkTitle":"My Travel Plans", "description":"Enter and track your itineraries for personal, study abroad, co-op, and other University travel."}
+   ]
+  }
+  ]
+}
+
+
+
+    
+  ]  
+  
+}

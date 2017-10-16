@@ -1,0 +1,75 @@
+ { "tabTitle": "myNeu Central",
+   "favList":[{"id":"myNeuCentral1"},{"id":"myNeuCentral2"}],
+  "contents":[
+  {"header":"myAlerts",
+  "id" : "myNeuCentral1",
+  "headerDescription":"There are no announcements"},
+    
+    {"header":"Ticket Center",
+  "id" : "myNeuCentral2",
+   "contentArray":[
+  {"subContents":[
+   {"link":"http://www.google.com", "linkTitle":"myTickets","description":"Purchase tickets to athletic and student events here."}
+]
+  }
+  ]
+    },
+    
+     {"header":"Upcoming Events",
+  "id" : "myNeuCentral3",
+  "headerDescription":"Listed below are upcoming events from the Campus Calendar. You may also <a href=\"http:\\\\www.google.com\">view the entire calendar</a> or <a href=\"http:\\\\www.google.com\">your personal calendar</a>.",
+  "contentArray":[
+  {
+    "subContents":[
+     {"link":"http://www.google.com", "linkTitle":"New time (MW 6pm) for Environmental Pollution this Spring! Enroll today","description":"In this class you will: -Develop and design a pollution remediation plan for a site of your choice -Visit the northeast's largest wastewater wetland in the heart of...","eventDate":"Dec 15 - Dec 31", "smallImg":"http://images-cf.localist.com/photos/340029/small/5e9934c1081944dd1efc24975bf443536a9e5c96.jpg"}, 
+     
+  {"link":"http://www.google.com", "linkTitle":"Study on Social Perception - earn $20!","description":"Are you 60 or older? Participate in this study on social perception and earn $20. You will be asked to judge video clips, pictures, and voice recordings on a...","eventDate":"Dec 15 - Dec 18", "smallImg":"http://images-cf.localist.com/photos/172899/small/0cecdb2447560dfe3be015188a945119dd06002e.jpg", "location":"Nightingale Hall"}, 
+   
+   {"link":"http://www.google.com", "linkTitle":"Introduction to Storyline","description":"FACULTY/STAFF ONLY. REGISTRATION AT https://northeastern.gosignmeup.com/public/course/browse?courseid=3477 IS REQUIRED. This course will show you the basics of using...","eventDate":"Dec 15 10am", "smallImg":"http://images-cf.localist.com/photos/240588/small/eca20b14c6ca3f569bb6c5604d1f21d6b4296ec4.jpg", "location":"Snell Library"},
+   
+   {"link":"http://www.google.com", "linkTitle":"ECE Seminar: \"Intelligent Coalition Formation of Multiple Robots and Humans,\" Dr. Julie A. Adams, Professor at Vanderbilt University","description":"Speaker: Dr. Julie A. Adams, Associate Professor of Computer Science and Computer Engineering in the Electrical Engineering and Computer Science Department at Vanderbilt...","eventDate":"Dec 15 12pm", "smallImg":"http://images-cf.localist.com/photos/172899/small/0cecdb2447560dfe3be015188a945119dd06002e.jpg"} ,
+   
+   {"link":"http://www.google.com", "linkTitle":"ChE Graduate Student Council Town Hall Meeting","description":"GRADUATE STUDENT COUNCIL TOWN HALL MEETING With Thomas Webster Professor and Department Chair, Chemical Engineering Art Zafiropoulo Chair in Engineering LEARN about the...","eventDate":"Dec 15 12pm", "smallImg":"http://images-cf.localist.com/photos/172899/small/0cecdb2447560dfe3be015188a945119dd06002e.jpg"},
+   
+   {"link":"http://www.google.com", "linkTitle":"ChemE Graduate Student Council Town Hall","description":"GRADUATE STUDENT COUNCIL TOWN HALL MEETING With Thomas Webster Professor and Department Chair, Chemical Engineering Art Zafiropoulo Chair in Engineering LEARN about the...","eventDate":"Dec 15 12pm", "smallImg":"http://images-cf.localist.com/photos/339851/small/5f52d6891723bd789d921f7aeb54e4da02846c25.jpg", "location":"108 West Village H"} 
+    ]
+  }
+  ]
+    },
+    
+    {"header":"Picture of the Week",
+    "headerDescription":null,
+  "id" : "myNeuCentral4",
+  "contentArray":[
+  {
+  "subContents":[
+     {"bigImg":"http://myneu.neu.edu/myneu/picofweek/week413pw.jpg","description":"Take advantage of career coaching and resources, graduate school planning, and job search assistance"}, 
+     
+   {"link":"http://www.google.com", "linkTitle":"Submit your own photo!","description":"We're looking for creativity with spunk; a different view of everyday life at NU. Send us photos of your best Northeastern experiences and you could be picture of the week!"}
+    ]
+  }
+  ]
+    },
+    
+     {"header":"news@Northeastern",
+    "headerDescription":"Northeastern University's official news source",
+  "id" : "myNeuCentral5",
+   "contentArray":[
+  {
+  "subContents":[
+     {"link":"http://www.google.com", "linkTitle":"A climate change agreement was reached. Now what?","description":"The two-week U.N. Framework Convention on Climate Change ended in Paris on Saturday with nearly 200 nations agreeing on a plan to combat climate change. Here, Northeastern professors discuss the good, the remaining challenges, and the future of this historic accord.","bigImg":"http://www.northeastern.edu/news/wp-content/uploads/2015/12/cop600-590x393.jpg"}, 
+     
+   {"link":"http://www.google.com", "linkTitle":"Want to get fit without hitting the gym? Follow these tips","description":"Here are five gym-free workout tips to help you build a fitter physique, with insight from Rui Li, an associate clinical professor who studies training strategies for fitness and sport performance.","bigImg":"http://www.northeastern.edu/news/wp-content/uploads/2015/12/deadlift_the_broom_1400-590x394.jpg"},
+   
+   {"link":"http://www.google.com", "linkTitle":"The growth of physics research, and its changing impact on our lives","description":"Over the past century, the discipline of physics has expanded exponentially, crossing boundaries into areas as diverse as biology and engineering. Network scientists in the lab of Albert-László Barabási analyzed how this growth drives technological breakthroughs that improve our lives.","bigImg":"http://www.northeastern.edu/news/wp-content/uploads/2015/12/physics-lead-1-590x393.jpg"},
+    {"link":"http://www.google.com", "linkTitle":"To give and to receive","description":"We surveyed the campus community, asking a handful of students to tell us what gifts they plan to give and receive this holiday season. The responses ran the gamut, covering everything from clothes and electronics to handmade paintings, dream catchers, and orange candy canes.","bigImg":"http://www.northeastern.edu/news/wp-content/uploads/2015/12/gift_giving_1400-590x394.jpg"},
+    
+    {"link":"http://www.google.com", "linkTitle":"3Qs: Is Donald Trump’s proposed ban on Muslims entering the US even legal?","description":"The leading Republican presidential candidate this week called for a ban on all Muslims entering the country. Law professor Wendy Parmet says this ban would fly in the face of U.S. constitutional values, morality, and human rights..","bigImg":"http://www.northeastern.edu/news/wp-content/uploads/2015/12/trump1400-590x393.jpg"}
+    ]
+  }
+  ]
+    }
+    
+  ]  
+  
+}

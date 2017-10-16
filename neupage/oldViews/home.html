@@ -1,0 +1,29 @@
+<div class="col-md-6" ng-repeat="section in sections['contents']">
+  <div class="col-md-12" >
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <span class="panel-title">{{section.header}}</span>
+    <button class="pull-right"><span class="glyphicon" ng-class="{{section.isFav}} ? 'glyphicon-star' : 'glyphicon-star-empty'"></span></button>
+  </div>
+  <div class="panel-body">
+     <div ng-if="section.headerDescription" ng-bind-html="section.headerDescription | unsafe"> </div> 
+    <div ng-repeat="subSection in section['subContents']" style="padding-top:20px">
+       <div ng-if="subSection.link">  <a ng-href="{{subSection.link}}">{{subSection.linkTitle}}</a> 
+       </div>
+      <div ng-if="!subSection.link"> {{subSection.linkTitle}}</div>
+      <div ng-if="subSection.smallImg && !subSection.bigImg">
+        <img ng-src="{{subSection.smallImg}}" align="left"/>
+        <p ng-if="subSection.description" ng-bind-html="subSection.description | unsafe"> </p> 
+      </div> 
+     <div ng-if="subSection.bigImg && !subSection.smallImg">
+        <img ng-src="{{subSection.bigImg}}"/>
+        <div ng-if="subSection.description" ng-bind-html="subSection.description | unsafe"> </div> 
+      </div> 
+      <div ng-if="!subSection.bigImg && !subSection.smallImg">
+        <div ng-if="subSection.description" ng-bind-html="subSection.description | unsafe"> </div> 
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</div>

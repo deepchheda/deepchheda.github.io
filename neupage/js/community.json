@@ -1,0 +1,306 @@
+{
+  "tabTitle": "Community",
+  "favList": [
+    {
+      "id": "Community1"
+    },
+    {
+      "id": "Community2"
+    },
+    {
+      "id": "Community3"
+    },
+    {
+      "id": "Community4"
+    },
+    {
+      "id": "Community5"
+    },
+    {
+      "id": "Community6"
+    },
+    {
+      "id": "Community7"
+    }
+  ],
+  "contents": [
+    {
+      "header": "Campus Offices",
+      "id": "Community1",
+      "contentArray": [
+        {
+      "subContents": [
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Asian American Center",
+          "description":"109 Hemenway Street<br>617.373.8852 (voice)<br>asianam@neu.edu"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Athletics",
+          "description":"Huskies Hotline:<br>617.373.GoNU"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Campus Recreation",
+          "description":"617.373.4433 (voice)<br>617.373.2885 (TTY)"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Career Services",
+          "description":"202 Stearns<br>617.373.2430 (voice)<br>careerservices@neu.edu"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Center of Community Service",
+          "description":"172 Curry Student Center<br>617.373.5809 (voice)"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Disability Resource Center",
+          "description":"20 Dodge Hall<br>617.373.2675 (voice)<br>617.373.2730 (TTY)"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "John D. O'Bryant African-American Institute",
+          "description":"40 Leon Street<br>617.373.3143 (voice)<br>aai@neu.edu"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Latino/a Cultural Center",
+          "description":"104 Forsyth Street<br>617.373.5845 (voice)<br>617.373.2009 (TTY)"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "OPEN- Office of Prevention and Education at Northeastern",
+          "description":"(alcohol and drug check-ins, referrals, education)<br>307 Ell Hall<br>617.373.4459 (voice)<br>open@neu.edu"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Registrar's Office",
+          "description":"120 Hayden Hall<br>617.373.2300 (voice)<br>617.373.5360 (TTY)<br>registrar@neu.edu"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Student Accounts",
+          "description":"(billing, costs, payment plans, Husky and meal plans)<br>354 Richards Hall<br>617.373.2270 (voice)<br>617.373.3881 (TTY)<br>studentaccounts@neu.edu"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Student Financial Services",
+          "description":"(financial aid and planning, loans)<br>356 Richards Hall<br>617.373.3190 (voice)<br>617.373.5714 (TTY)<br>sfs@neu.edu"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "University Health and Counseling Services",
+          "description":"70 Forsyth Street, Suite 135<br>617.373.2772 (voice)<br>617.373.5973 (TTY)"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "University Life",
+          "description":"(housing)<br>4 Speare Hall<br>617.373.2814 (voice)<br>617.373.4019 (TTY)<br>housing@neu.edu"
+        }
+      ]
+    }
+    ]
+    },
+    {
+      "header": "Student Involvement",
+      "id": "Community2",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "OrgSync",
+              "description":"Your link to joining and leading student organizations!"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Service Time Logs",
+              "description":"For students and S-LTAs involved in Civic Engagement Program, Jumpstart, Service-Learning Courses, and Mass achusetts Promise       Fellowship"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "NU Space Scheduling Online",
+              "description":"Your gateway to CSI & Snell Library reservatons!"
+            }
+          ]
+        }
+        ]
+      
+    },
+    {
+      "header": "NUTV Webcast",
+      "id": "Community3",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Check out what's playing on NUTV",
+              "description": "Northeastern University Television is now available to the Northeastern community. Check out our coverage of events around campus, along with sports, technology, original programming, and lots more!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "HuskyCable Television",
+      "headerDescription":"HuskyCable offers over 70+ broadcast and premium channels to students in NU-owned residence halls without a monthly cable bill. For assistance with HuskyCable, call (617)373-4357(xHELP).",
+      "id": "Community4",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "description":"HuskyCable Channel Guide: ( <a href=\"http://www.google.com\">Adobe PDF </a>)"
+            },
+            
+            {
+              "description":"HuskyCable Frequently Asked Questions: ( <a href=\"http://www.google.com\">Adobe PDF </a>  | <a href=\"http://www.google.com\">Adobe PDF </a> )"
+            },
+             
+            {
+              "description":"HuskyCable Listings and Lineup: <a href=\"http://www.google.com\">Adobe PDF </a>"
+            },
+               
+            {
+              "description":"HuskyCable Listings and Lineup: <a href=\"http://www.google.com\">Adobe PDF </a>"
+            }
+          
+          ]
+        }
+      ]
+    },
+    
+    {
+      "header": "ResNet",
+      "id": "Community5",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "ResNet Resource Center",
+              "description": "Explore the computer related services that the ResNet Resource Center has to offer including: software and hardware support, game console registration, helpful hints, a computer products store, and much more.",
+              "smallImg": "http://myneu.neu.edu/myneu/images/smallLaptop.gif"
+            }
+          ]
+        }
+      ]
+    },
+{
+      "header": "Helpful Links",
+      "id": "Community6",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Academic Calendars"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Campus Maps/Directions"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Combined Degrees"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Course Descriptions"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Class Schedules"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Dining Services"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Double Husky Scholarship"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Facilities Online Work Request"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Husky Express"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "LaundryView"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "NU Bookstore"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Undergrad Catalogs"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Zipcar at NU"
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "header": "Campus Doings",
+      "id": "Community7",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Campus Calendar"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Council for University Programs"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Curry Student Center"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Graduate and Professional Student Association"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Husky Environmental Action Team (HEAT)"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "news@Northeastern"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Resident Student Association"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Student Government Association"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "WRBB Campus Radio"
+            }
+            
+          ]
+        }
+      ]
+    }
+    
+    
+    
+    ]
+}

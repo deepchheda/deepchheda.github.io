@@ -1,0 +1,69 @@
+ { "tabTitle": "Husky Nation",
+  "contents":[
+  {"header":"Welcome to Husky Nation",
+  "id" : "huskyNation1",
+  "contentArray": [
+        {
+  "subContents":[
+   {"link":"http://www.google.com", "linkTitle":"Stay Connected","description":"As a student of the University you have the opportunity for a lifelong connection to Northeastern. You are a student for a few short years, but an alumnus/a for life. Check out the Alumni Relations Website for events, programs, benefits and alumni groups that may be of interest to you."}, 
+   
+    {"link":"http://www.google.com", "linkTitle":"Keep in Touch","description":"Change of address? Receive news, event invitations, and the Northeastern Alumni Magazine by keeping your contact information up-to-date."},
+    
+ {"link":"http://www.google.com", "linkTitle":"Volunteer","description":"With more than 213,000 alumni spread around the world, we strive to help everyone, maintain a connection to the university-and we need your help! We want to ensure that your alumni experience is as amazing as your student experience, but we can't do it without you. When you volunteer you'll meet dozens of Huskies who live and work nearby, most of whom share a tremendous affinity for Northeastern. Volunteering is not a huge commitment, and can include everything from sending potential event ideas or helping to secure locations for future events in the city."}
+    
+    ]
+        }
+        ]
+        },
+    
+    {"header":"Senior Gift Drive",
+  "id" : "huskyNation2",
+  "contentArray": [
+        {
+  "subContents":[
+   {"link":"http://www.google.com", "linkTitle":"Make a gift today!","description":"Senior Gift Drive is a great way to honor your Northeastern experience and help continue the Northeastern tradition. Your class can make a gift the area you loved most about Northeastern, i.e. Athletics, Academics, Co-op, Libraries, Scholarships, and Student Life. We invite you to continue this tradition by making a gift of $20.14 to an area that significantly impacted your college experience. Fund donations help support Northeastern programs and initiatives - many of which you have benefitted from!"}, 
+   
+    {"link":"http://www.google.com", "linkTitle":"visit the Class of 2014 website","description":"For more information on the Senior Gift Drive and your Senior Class Council"}
+    
+    ]}]},
+    
+     {"header":"Commencement",
+  "id" : "huskyNation3",
+  "contentArray": [
+        {
+  "subContents":[
+     {"link":"http://www.google.com", "linkTitle":"Apply to Graduate","description":"Completion of this registration form is required if you are graduating in the current academic year."}, 
+     
+   {"link":"http://www.google.com", "linkTitle":"View Application to Graduate","description":"If you have completed your Apply to Graduate form, review it here."}, 
+   
+    {"link":"http://www.google.com", "linkTitle":"NU Commencement Website","description":"Review important deadlines, ceremony details, event information and more!"}
+    
+    ]}]},
+    
+    {"header":"Career Development",
+    "headerDescription":null,
+  "id" : "huskyNation4",
+  "contentArray": [
+        {
+  "subContents":[
+     {"link":"http://www.google.com", "linkTitle":"Career Development","description":"Take advantage of career coaching and resources, graduate school planning, and job search assistance"}, 
+     
+   {"link":"http://www.google.com", "linkTitle":"HuskyCareerLink","description":"If you have completed your Apply to Graduate form, review it here."}, 
+   
+    {"link":"http://www.google.com", "linkTitle":"NU Commencement Website","description":"It's never too late <a href=\"www.google.com\">to make an appointment</a> to see a career coach to map out your strategy and sharpen your presentation. Need a quick resume or cover letter review? Come to walk-in hours weekdays from 2 to 4 pm in 202 Stearns."}
+    
+    ]}]},
+     {"header":"Alumni Benefits",
+    "headerDescription":"After graduation, take advantage of great alumni benefits.",
+  "id" : "huskyNation5",
+  "contentArray": [
+        {
+  "subContents":[
+     {"link":"http://www.google.com", "linkTitle":"Marino Center","description":"Discounted alumni memberships are available."}, 
+     
+   {"link":"http://www.google.com", "linkTitle":"Group Discount on Auto and Homeowners Insurance","description":"Don't forget to protect the contents of your apartment with Renters Insurance. Check the <a href=\"www.google.com\">Alumni Benefits Web page</a> for more information and a full list of benefits and resources available to alumni."}
+    ]}]}
+    
+  ]  
+  
+}

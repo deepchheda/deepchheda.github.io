@@ -1,0 +1,55 @@
+{
+  "tabTitle": "InfoChannels",
+  "favList": [
+    {
+      "id": "InfoChannels1"
+    }
+   
+  ],
+  "contents": [
+    {
+      "header": "What's New",
+      "id": "InfoChannels1",
+      "description":"Library blog.",
+      "contentArray": [
+        {
+      "subContents": [
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Keeper of the Flame: Boston Phoenix owner gifts archives to Northeastern",
+          "description":"Originally Published in News@Northeastern on November 24, 2015 By Noelle Shough For nearly 50 years, The Boston Phoenix was Boston’s alternative newspaper of record, the first word on social justice, politics, as well as the arts and music scene. Its intrepid journalists tackled issues from safe sex and AIDS awareness to gay rights, marriage equality, and the […]",
+          "bigImg":"http://www.lib.neu.edu/snippets/wp-content/gravatars/local/62277e9291347a048e0da38021fc8a4d"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "October is Open Access Month!",
+          "description":"This year, Snell Library is expanding the celebration of International Open Access Week to the whole month of October! We have a great schedule of programs lined up for the month that will highlight different resources and initiatives that promote open access to information, as well as open-source tools for research support. You can find the complete listing of events below. […]",
+          "bigImg":"http://www.lib.neu.edu/snippets/wp-content/gravatars/local/f810274bf00056dfb33afe4ef7b13586"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "“Neighborhood Matters” Fall 2015 lunchtime movies announced",
+          "description":" Neighborhood Matters is a lunchtime series that celebrates the ways in which community groups have shaped the neighborhoods surrounding the Northeastern campus. This series is co-curated by the Northeastern Center for the Arts and the Archives and Special Collections at the Northeastern University Library.  The Series’ fall series includes three films about the North End, […]",
+        "bigImg":"http://www.lib.neu.edu/snippets/wp-content/gravatars/local/12e75f2d8d67399aae4c68212c061e9c"  
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Northeastern Welcomes Convenience Store Vending Machine",
+          "description":"Gone are the days of running to the corner store in desperation only to find it closed. Gone are the times when you arrive at the library fully prepared for a day of studying only to realize you forgot your phone charger. This semester, Snell Library has a new addition to the first floor near […]",
+          "bigImg":"http://www.lib.neu.edu/snippets/wp-content/gravatars/blank_gravatar.png"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Welcome Back to Snell: What You Need to Know",
+          "description":"On behalf of Snell Library, I would like to extend a warm welcome to all new and returning members of the Northeastern community for the start of the Fall 2015 semester. Snell Library offers services and resources for everyone at Northeastern. Click a link below to explore how you can use your library! Undergraduate Graduate Staff/Faculty […]",
+          "bigImg":"http://www.lib.neu.edu/snippets/wp-content/gravatars/local/fc73f5ed7a77660c140c7990c83a4d92"
+        }
+ 
+    
+ 
+]
+}
+]
+}
+]
+}

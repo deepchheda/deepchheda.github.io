@@ -1,0 +1,157 @@
+{
+  "tabTitle": "Career Development",
+  "favList": [
+    {
+      "id": "CareerDevelopment1"
+    },
+    {
+      "id": "CareerDevelopment2"
+    },
+    {
+      "id": "CareerDevelopment3"
+    },
+    {
+      "id": "CareerDevelopment4"
+    },
+    {
+      "id": "CareerDevelopment5"
+    },
+    {
+      "id": "CareerDevelopment6"
+    }
+  ],
+  "contents": [
+    {
+      "header": "How Career Development Can Help You",
+      "id": "CareerDevelopment1",
+      "contentArray": [
+        {
+      "subContents": [
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Decide on a Career or Major"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Find an Internship"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Job Search Guidance"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Resume Services"
+        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Cover Letter Critique"        },
+        {
+          "link": "http://www.google.com",
+          "linkTitle": "Mock Interviews"
+        }
+      ]
+    }
+    ]
+    },
+    {
+      "header": "Appointments & Walk-ins",
+      "id": "CareerDevelopment2",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Career Counselor Appointments",
+              "description":"JD and all MBA & MS business degree candidates – please contact your respective career centers for counseling appointments (Law School Career Services and MBA Career Center)"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Walk-in Hours"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Contact Us"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Law School Career Services"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "MBA Career Center"
+            }
+          ]
+        }
+        ]
+      
+    },
+    
+    {
+      "header": "Calendar",
+      "id": "CareerDevelopment4",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Tuesday, 12 January",
+              "description": "12:00 PM\tSmall Group Job Search"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Thursday, 14 January",
+              "description": "12:00 PM\tHow to Write a Winning Cover Letter\n04:00 PM\tLinkedIn 2: Advanced Networking\n05:00 PM\tINTL: International Student Small Group Job Search"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Friday, 15 January",
+              "description": "12:00 PM\tHow to Create a Winning Resume\n03:00 PM\tGRAD WEBINAR: Key Steps to Take During Your Graduate Program"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Monday, 18 January",
+              "description": "05:00 PM\tInternational Student Elevator Pitch Competition: Submit Your Video, Now!"
+            },
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Tuesday, 19 January",
+              "description": "12:00 PM\tINTL: International Student Small Group Job Search"
+            }
+            
+          ]
+        }
+      ]
+    },
+    {
+      "header": "View Event Calendar",
+      "id": "CareerDevelopment5",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Career Development Full Calendar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Find a Job or Internship on...",
+      "id": "CareerDevelopment3",
+      "contentArray": [
+        {
+          "subContents": [
+            {
+              "link": "http://www.google.com",
+              "linkTitle": "Participate in On-Campus Recruiting",
+              "bigImg": "http://myneu.neu.edu/myneu/career/NUcareersLogo.png"
+            }
+          ]
+        }
+      ]
+    }
+    
+    ]
+}

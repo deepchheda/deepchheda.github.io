@@ -1,0 +1,41 @@
+
+<div class="col-md-6" ng-repeat="section in sections['contents']">
+  <div class="col-md-12" >
+<div class="panel panel-default">
+<div class="panel-heading">
+    <span class="panel-title" data-toggle="collapse" data-target="#{{section.id}}">{{section.header}}
+    <div class="pull-right">
+      <button class="btn" ng-click="addToFav(section)" style="background-color:transparent; padding:0px;">
+        <span><img src="images/ic_follow_grey.png" title="Add to favorites"></span>     
+      </button>
+    </div></span>
+  </div>
+
+  <div class="panel-body collapse in" id="{{section.id}}">
+     <div ng-if="section.headerDescription" ng-bind-html="section.headerDescription | unsafe" style="padding-bottom:20px"> </div> 
+
+     <div ng-repeat="content1 in section['contentArray']" >
+     <div class="panel-title" ng-if="content1.subContentTitle" > {{content1.subContentTitle}}</div>
+    <div ng-repeat="subSection in content1['subContents']" style="padding-top:10px; padding-bottom:20px" >
+       <div ng-if="subSection.link">  <a class="bold-link" ng-href="{{subSection.link}}" >
+        {{subSection.linkTitle}}</a> 
+       </div>
+      <div ng-if="!subSection.link"> {{subSection.linkTitle}}</div>
+       <div ng-if="subSection.smallImg && !subSection.bigImg" style="padding-top:10px">
+        <img ng-src="{{subSection.smallImg}}" class="img-responsive img-rounded padding-to-image" align="left"/>
+        <p ng-if="subSection.description" ng-bind-html="subSection.description | unsafe"> </p> 
+      </div> 
+     <div ng-if="subSection.bigImg && !subSection.smallImg" style="padding-top:10px">
+        <img ng-src="{{subSection.bigImg}}" class="img-responsive img-rounded" />
+        <div ng-if="subSection.description" ng-bind-html="subSection.description | unsafe"> </div> 
+      </div>
+      <div ng-if="!subSection.bigImg && !subSection.smallImg">
+        <div ng-if="subSection.description" ng-bind-html="subSection.description | unsafe"> </div> 
+      </div>
+    </div>
+</div>
+  </div>
+
+  </div>
+</div>
+</div>
